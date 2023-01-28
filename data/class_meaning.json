@@ -1,0 +1,7 @@
+{
+    "-1" : "Unknown class",
+    "0" : "Hot topic",
+    "1" : "Not hot topic",
+    "2" : "Hot topic recurrently",
+    "3" : "Hot topic for a single time"
+}
